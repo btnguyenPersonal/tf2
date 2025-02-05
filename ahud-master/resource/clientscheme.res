@@ -1,5 +1,6 @@
 // Don't edit these lines
 
+#base "../resource/crosshairs/crosshair_scheme.res"
 #base "scheme/basesettings.res"
 #base "scheme/borders.res"
 #base "scheme/colors.res"
