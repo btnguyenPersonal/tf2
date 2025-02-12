@@ -34,7 +34,7 @@
 		"visible" 			"1"
 		"enabled"			"0"
 		"tabPosition" 		"0"
-		"labelText" 		"#TF_Charge"
+		"labelText" 		""
 		"textAlignment" 	"center"
 		"dulltext" 		  	"0"
 		"brighttext" 	   	"0"
