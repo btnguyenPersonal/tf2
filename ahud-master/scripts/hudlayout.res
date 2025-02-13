@@ -20,12 +20,12 @@
 		"controlName"	"CExLabel"
 		"fieldName"	 	"KnucklesCrosses"
 		"zpos"			"0"
-		"xpos" 		 	"c-25"
-		"ypos" 		 	"c-25"
+		"xpos" 		 	"0"
+		"ypos" 		 	"0"
 		"wide" 		 	"50"
 		"tall" 		 	"50"
 
-		"font"			"size:30,outline:off"	// size: range 10-50
+		"font"			"size:10,outline:on"	// size: range 10-50
 												// outline: on or off
 
 		"textAlignment"	"center"

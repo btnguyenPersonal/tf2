@@ -27,7 +27,7 @@
 		// The Outline can be toggled between ON and OFF
 		//=========================================================================
 
-		"font"		"Size:18 | Outline:OFF"
+		"font"		"Size:10 | Outline:OFF"
 
 		//=========================================================================
 		// CROSSHAIR POSITION
@@ -37,8 +37,8 @@
 		// Adjust the values in order to perfectly center the crosshair
 		//=========================================================================
 
-		"xpos"		"cs-0.4999"
-		"ypos"		"cs-0.4990"
+		"xpos"		"0"
+		"ypos"		"0"
 
 		//=========================================================================
 		// CROSSHAIR COLOR
