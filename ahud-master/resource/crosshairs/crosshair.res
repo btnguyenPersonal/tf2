@@ -27,7 +27,7 @@
 		// The Outline can be toggled between ON and OFF
 		//=========================================================================
 
-		"font"		"Size:14 | Outline:OFF"
+		"font"		"Size:16 | Outline:ON"
 
 		//=========================================================================
 		// CROSSHAIR POSITION
