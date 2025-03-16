@@ -18,7 +18,7 @@
 		// Checkout the different options in the TF2Crosshairs.png
 		//=========================================================================
 
-		"labelText"	"'"
+		"labelText"	"B"
 
 		//=========================================================================
 		// CROSSHAIR SIZE & PROPERTIES
@@ -27,7 +27,7 @@
 		// The Outline can be toggled between ON and OFF
 		//=========================================================================
 
-		"font"		"Size:16 | Outline:ON"
+		"font"		"Size:16 | Outline:OFF"
 
 		//=========================================================================
 		// CROSSHAIR POSITION
